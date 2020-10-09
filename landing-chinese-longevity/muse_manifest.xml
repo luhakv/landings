@@ -1,0 +1,123 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="luhakv.com" resolutions="1x" timestamp="1593359637556">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="151699721" ref="index"/>
+    <file name="course.css" crc="4158030159" ref="course"/>
+    <file name="group.css" crc="467372309" ref="group"/>
+    <file name="pay-8000.css" crc="97124257" ref="pay-8000"/>
+    <file name="pay-6000.css" crc="3865466998" ref="pay-6000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>group:phone>course:group:course:phone>pay-6000:phone>pay-8000:pay-6000:pay-8000"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index:phone>group:phone>course:group:course:phone>pay-6000:phone>pay-8000:pay-6000:pay-8000"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:phone>group:phone>course:group:course:phone>pay-6000:phone>pay-8000:pay-6000:pay-8000"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index:phone>group:phone>course:group:course:phone>pay-6000:phone>pay-8000:pay-6000:pay-8000"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:phone>group:phone>course:group:course:phone>pay-6000:phone>pay-8000:pay-6000:pay-8000"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index:phone>group:phone>course:group:course:phone>pay-6000:phone>pay-8000:pay-6000:pay-8000"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="346287926" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hanna274x320.png" crc="4182429461" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emi2226x271.png" crc="3914523550" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_mg_7860-2.jpg" crc="3769810593" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drako61.png" crc="310796862" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brass-buddha-figurine-on-black-surface-1585716-u1289-fr.png" crc="196035436" ref="phone>index:index"/>
+    <file name="54456.jpg" crc="3990882152" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white-and-red-lucky-charm-on-red-table-3626475-u1423-fr.jpg" crc="3804483134" ref="phone>index"/>
+    <file name="red-env.png" crc="8530056" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed-u1408.png" crc="4110139061" ref="phone>index"/>
+    <file name="bog2015.png" crc="496562176" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7778.jpg" crc="4003867751" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8887.jpg" crc="4144701900" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="person-pouring-tea-on-clear-drinking-glass-3971926.jpg" crc="343358867" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faq.png" crc="326475614" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fon-site.jpg" crc="313863248" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emi2.png" crc="3908744646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hanna.png" crc="72979670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pngtree-317-chinese-medicine-day-ancient-style-ink-banner-background-image_198968.jpg" crc="3842898608" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white-and-red-lucky-charm-on-red-table-3626475.jpg" crc="4211232961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed-u571.png" crc="69427117" ref="index"/>
+    <file name="fon15.png" crc="487021305" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pngtree-317-chinese-medicine-day-ancient-style-ink-banner-background-image_198968-u1307-fr.jpg" crc="3949115011" ref="phone>index"/>
+    <file name="_mg_8975-2.jpg" crc="4249490551" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="279254379" ref="phone>index"/>
+      <file name="course.css" crc="3880393007" ref="phone>course"/>
+      <file name="group.css" crc="4097458856" ref="phone>group"/>
+      <file name="pay-8000.css" crc="4023858581" ref="phone>pay-8000"/>
+      <file name="pay-6000.css" crc="413555741" ref="phone>pay-6000"/>
+    </folder>
+    <file name="index.html" crc="4228697997" seo="true" mt="1593358963231" redirect="true"/>
+    <file name="group.html" crc="4159780894" seo="true" mt="1590083171811" redirect="true"/>
+    <file name="course.html" crc="200470010" seo="true" mt="1590082987961" redirect="true"/>
+    <file name="pay-6000.html" crc="4117322244" seo="true" mt="1593359585355" redirect="true"/>
+    <file name="pay-8000.html" crc="4257001823" seo="true" mt="1593359559709" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4276883168" seo="true" mt="1593358946917" redirect="true"/>
+  <file name="group.html" crc="3904850846" seo="true" mt="1590083090830" redirect="true"/>
+  <file name="course.html" crc="289607559" seo="true" mt="1590082949839" redirect="true"/>
+  <file name="pay-6000.html" crc="183111191" seo="true" mt="1593359606356" redirect="true"/>
+  <file name="pay-8000.html" crc="4092033927" seo="true" mt="1593359377106" redirect="true"/>
+</manifest>

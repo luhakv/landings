@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://luhakv.com/index.html</loc>
+    <lastmod>2020-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://luhakv.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://luhakv.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/_mg_7860-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/drako61.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/54456.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/red-env.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/bog2015.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/7778.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/8887.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/person-pouring-tea-on-clear-drinking-glass-3971926.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/faq.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/emi2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/hanna.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://luhakv.com/images/_mg_8975-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://luhakv.com/group.html</loc>
+    <lastmod>2020-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://luhakv.com/phone/group.html"/>
+  </url>
+  <url>
+    <loc>http://luhakv.com/course.html</loc>
+    <lastmod>2020-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://luhakv.com/phone/course.html"/>
+  </url>
+  <url>
+    <loc>http://luhakv.com/pay-6000.html</loc>
+    <lastmod>2020-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://luhakv.com/phone/pay-6000.html"/>
+  </url>
+  <url>
+    <loc>http://luhakv.com/pay-8000.html</loc>
+    <lastmod>2020-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://luhakv.com/phone/pay-8000.html"/>
+  </url>
+</urlset>
